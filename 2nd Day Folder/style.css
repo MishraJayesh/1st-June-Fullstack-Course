@@ -1,0 +1,77 @@
+html{
+    background-color: darkkhaki;
+    font-size: 14px;
+    text-align: center;
+}
+
+.header1{
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+    border: 5px solid red;
+    margin: 15px 20px 15px 20px;
+    padding: 2%;
+}
+
+.header2{
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    border: 5px solid red;
+    margin: 15px 20px 15px 20px;
+    padding: 2%;
+}
+
+.header3{
+    font-size: 30px;
+    background-color: indianred;
+    color: white;
+    border: 5px solid black;
+    margin: 15px 20px 15px 20px;
+    padding: 2%;
+}
+
+.header4{
+    font-size: 30px;
+    background-color: darkblue;
+    color: white;
+    border: 5px solid red;
+    margin: 15px 20px 15px 20px;
+    padding: 2%;
+}
+
+.header5{
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+    border: 5px solid red;
+    margin: 15px 20px 15px 20px;
+    padding: 2%;
+}
+
+.header6{
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    border: 5px solid red;
+    margin: 15px 20px 15px 20px;
+    padding: 2%;
+}
+
+.header7{
+    font-size: 30px;
+    background-color: indianred;
+    color: white;
+    border: 5px solid black;
+    margin: 15px 20px 15px 20px;
+    padding: 2%;
+}
+
+.header8{
+    font-size: 30px;
+    background-color: darkblue;
+    color: white;
+    border: 5px solid red;
+    margin: 15px 20px 15px 20px;
+    padding: 2%;
+}
