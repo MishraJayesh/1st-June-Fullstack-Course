@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>FORM</title>
+<script>
+document.getElementById("demo").innerHTML = "Put Your Credentials";
+</script>
 </head>
 <body>
     <form align="center" style="background-color:lightsalmon;">
@@ -24,7 +27,7 @@
             <label>Phone number:</label>
             <input type="number" required>
         </div>
-        <button style="border: 5px; color:black;">Login</button>
+        <button style="border: 5px; color:black;"type="button" onclick="document.getElementById('demo').innerHTML = 'You cannot be redirected to next page. Check your network connection.'">Login</button>
     </form>
 
     <ls align="right" style="color: red; font-size:20px; font-family:verdana;">
