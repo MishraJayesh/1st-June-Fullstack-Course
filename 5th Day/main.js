@@ -22,6 +22,16 @@ function Programm(){
  console.log('Programm')   
 }
 
+function arithmetic(a, b) { console.log(a + b); 
+                            console.log(b - a); 
+                            console.log(a * b); 
+                            console.log(b / a); 
+                            console.log(a % b);
+                            console.log( a++);
+                            console.log(b--);
+                            console.log( a ** 2);
+}
+
 Roll();
 Div();
 Programm(); 
