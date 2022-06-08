@@ -11,6 +11,7 @@ var student = {
 function Roll(){
  console.log('Roll No.')   
 }
+
 function Div(){
     setTimeout(() => {
         console.log('Div.')   
