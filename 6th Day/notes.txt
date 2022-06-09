@@ -1,0 +1,17 @@
+Global scope :- In a single or same file when variable is declared globaly out of the scope is called as global scope variable.
+Functional scope :- When inside of any functional scope if any variable is declared then that variable is called as functional scope variable.
+
+Difference between var let and const :-
+
+var :-
+1. var is global scope variable
+2. values under var can be changed if required
+
+let :- 
+1. let is functional scope variable 
+2. we cannot declare let again in the same file 
+
+const :- 
+1. value assigned inside const cannot change
+2. const is blocked scope variable
+
