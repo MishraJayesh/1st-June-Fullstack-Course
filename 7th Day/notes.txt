@@ -1,0 +1,9 @@
+What is API ?
+Ans. It is a communicating or connecting interface or path way established between two programms or softwares.
+
+Types Of APIs :-
+1.GET - Request which gives us data from backend to frontend is called "GET" API.
+2.POST - The request which adds or modifies data is called "POST" API.
+3.PUT - Request which modifies or edits the data or payloads is called as "PUT" API.
+4.DELETE - The request which deletes the data is called "DELETE" API.
+5.PATCH - Request which modifies the specific data is called "PATCH" API. 
