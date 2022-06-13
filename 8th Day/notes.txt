@@ -1,0 +1,2 @@
+Definition : 
+Index :- Index Is The Numbering Given To The Objects Inside An Array.
