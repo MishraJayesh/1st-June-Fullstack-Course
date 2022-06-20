@@ -9,8 +9,8 @@ function ControlledCarousel() {
                         className = "d-block w-100"
                         src = "https://img.theweek.in/content/dam/week/news/sci-tech/images/2022/4/5/macaw-bird.jpg"
                         alt = "First Slide"
-                        height="400px"
-                        width="300px"
+                        height="280px"
+                        width="100px"
 
                     />
                 <Carousel.Caption>
@@ -23,8 +23,8 @@ function ControlledCarousel() {
                         className = "d-block w-100"
                         src = "https://www.greatfen.org.uk/sites/default/files/styles/grid_teaser/public/third_light/Red%2520Kite.jpg?h=5f29f7b4&itok=vs_8-mcE"
                         alt = "Second Slide"
-                        height="400px"
-                        width="300px"
+                        height="280px"
+                        width="100px"
                     />
                 <Carousel.Caption>
                     <h3>Kite</h3>
@@ -36,7 +36,7 @@ function ControlledCarousel() {
                         className = "d-block w-100"
                         src = "https://i.gadgets360cdn.com/large/kingfisher_pixabay_1482398008037.jpg"
                         alt = "Third Slide"
-                        height="300px"
+                        height="280px"
                         width="100px"
                     />
                 <Carousel.Caption>
