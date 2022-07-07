@@ -1,0 +1,25 @@
+Q.01. Routing :- Based On Users Requests Or Actions They Are Directed To Different Pages
+                 And This Process Of Directing Users To Different Pages
+                 As Per Their Actions Or Request Is Termed As Routing In React JS.
+
+
+Why Need Of Routing Came Into Existance?
+
+Ans. Need Of Routing Came Into Existance For Developing Single Page Web Applications.
+
+Q.03. Difference Between State And Props :- 
+
+   STATE :-
+-> State basically manipulate the DOM or components of the DOM.
+-> State stores values of  componentspresent in the DOM.
+
+   PROPS :- 
+-> Props are function or property used to pass data from one  component to another component.
+-> Content of Props cannot be changed if once assigned. 
+
+Hooks :- Hooks Allows Function Components To Have Access To State And Other React Features.
+
+State :- State Generally Refers To Data Or Properties That Need To Be Tracking In An Application.
+         Basically Manipulate The DOM Or Components Of The DOM.
+
+Props :- Props Are Function Or Property Used To Pass Data From One Component To Another Component.
